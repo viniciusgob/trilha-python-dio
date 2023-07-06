@@ -1,5 +1,5 @@
 saldo = 2000
-saque = 2500
+saque = int(input("Informe o valor para saque: "))
 
 status = "Sucesso" if saldo >= saque else "Falha"
 

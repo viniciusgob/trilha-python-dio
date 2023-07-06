@@ -4,3 +4,4 @@ curso = "Curso de python"
 print("laranja" not in frutas)
 print("limao" in frutas)
 print("Python" in curso)
+print(curso in "Python")

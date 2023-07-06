@@ -1,10 +1,10 @@
 while True:
     numero = int(input("Informe um número: "))
 
-    if numero == 10:
+    if numero == 11:
         break
 
-    if numero % 2 == 0:
+    if numero % 3 == 0:
         continue
 
     print(numero)
